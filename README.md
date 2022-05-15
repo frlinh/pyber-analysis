@@ -25,11 +25,12 @@ The total rides by city type pie chart show that urban cities shared 68.4% of th
 ![% of_Total_Drivers_by_City_Type](https://github.com/frlinh/pyber-analysis/blob/4796f5ae0646f15c5042490159e72e676bbe9bf0/Resources/Fig7.png)
 The total drivers by city type pie chart show that urban cities formed 80.9% of total drivers, while suburban cities formed 16.5% and rural cities formed 2.6% of total drivers. 
 
+## Summary
+
 ![Total_Fare_by_City_Type](https://github.com/frlinh/pyber-analysis/blob/4796f5ae0646f15c5042490159e72e676bbe9bf0/Resources/Challenge_fare_summary.png)
 
 ![Pyber_Ride_Summary](https://github.com/frlinh/pyber-analysis/blob/7463784d1c666fe7d589050fd57941995fdc863d/Resources/pyber_ride_summary.png)
 
-## Summary
 Drivers in rural cities earned an average of $38 more than drivers in urban cities. The average fare per ride is approximately $10 more in rural cities than in urban cities.  To mitigate the imbalance of fare prices and fare earnings the business recommendations below are necessary to ensure affordability among different city types and to balance fare earnings per ride.
 
 Business Recommendation:
