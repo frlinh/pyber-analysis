@@ -8,7 +8,7 @@ Performed data analysis on ride-sharing data to improve access to ride-sharing s
 The Pyber ride-sharing data shows that the average fares in urban cities were typically lower than in suburban and rural cities.
 
 ![Ride_Count_Data](https://github.com/frlinh/pyber-analysis/blob/4796f5ae0646f15c5042490159e72e676bbe9bf0/Resources/Fig2.png)
-The ride count chart shows that there is one outlier in the urban ride count data.  In addition, the average number of rides in the rural cities is about 3 times lower per city than in suburban cities and 4 times lower per city than in urban cities.
+The ride count chart shows that there is one outlier in the urban ride count data.  The chart also shows that the average number of rides in the rural cities is about 3 times lower per city than in suburban cities and 4 times lower per city than in urban cities.
 
 ![Ride_Fare_Data](https://github.com/frlinh/pyber-analysis/blob/4796f5ae0646f15c5042490159e72e676bbe9bf0/Resources/Fig3.png)
 The ride fare chart shows that the average fare for rides in rural cities is about $5 more per ride than in suburban cities and about $10 more per ride than in urban cities.  
